@@ -1,0 +1,7 @@
+{
+  "username": usernameusernameusername
+  "password": "passwordpasswordpasswordpassword",
+  "tenantId": "tenantIdtenantIdtenantIdtenantIdtenantId",
+  "timeout": 10,
+  "retryTime": 3
+}
